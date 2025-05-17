@@ -13,5 +13,7 @@ This project simulates adding, removing, and navigating through songs like a bas
 
 ## Build & Run
 ```bash
+git clone https://github.com/pnackp/Music-Playlist-Manager.git
+cd Music-Playlist-Manager
 gcc main.c playlist.c utils.c -o playlist
 ./playlist
