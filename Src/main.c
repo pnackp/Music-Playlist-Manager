@@ -4,7 +4,7 @@
 int main() {
     int choice ; char name[100];
     do {
-        printf("\n🎶 Playlist Manager 🎶\n");
+        printf("\n Playlist Manager \n");
         printf("1. Add Song\n");
         printf("2. Delete Song\n");
         printf("3. Play Current Song\n");
